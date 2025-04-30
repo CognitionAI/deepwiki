@@ -1,2 +1,8 @@
-# deepwiki
-deepwiki.com
+# DeepWiki
+Freely available at [deepwiki.com](https://deepwiki.com/)
+
+## README badge
+Add a badge to your README that links to your repo's DeepWiki.
+[<img src="https://devin.ai/assets/deepwiki-badge.png" alt="Ask http://DeepWiki.com" height="20"/>](https://deepwiki.com)
+
+Swap the URL at the end with your repo's DeepWiki link. It looks like this: https://deepwiki.com/CognitionAI/qa-devin
