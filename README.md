@@ -13,3 +13,8 @@ Add a badge to your README that links to your repo's DeepWiki.
 ```
 
 Swap the URL at the end with your repo's DeepWiki link. It looks like this: https://deepwiki.com/CognitionAI/qa-devin
+
+## More resources
+- [DeepWiki Docs](https://docs.devin.ai/work-with-devin/deepwiki)
+
+- [Devin Tutorials](https://docs.devin.ai/learn-about-devin/workflows)
