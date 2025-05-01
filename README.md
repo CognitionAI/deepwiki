@@ -2,7 +2,7 @@
 Freely available at [deepwiki.com](https://deepwiki.com/)
 
 ## README badge
-[<img src="https://devin.ai/assets/askdeepwiki.png" alt="Ask http://DeepWiki.com" height="20"/>](https://deepwiki.com)
+[<img src="https://devin.ai/assets/askdeepwiki.png" alt="Ask https://DeepWiki.com" height="20"/>](https://deepwiki.com)
 
 Add a badge to your README that links to your repo's DeepWiki.
 
