@@ -1,5 +1,6 @@
 # DeepWiki
 Freely available at [deepwiki.com](https://deepwiki.com/)
+Index private repos with a [Devin account](https://devin.ai/)
 
 ## README badge
 [<img src="https://devin.ai/assets/askdeepwiki.png" alt="Ask https://DeepWiki.com" height="20"/>](https://deepwiki.com)
